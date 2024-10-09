@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Numea';
-    src: url(fonts/numea/Numea\ DEMO.otf) format('truetype');
+    src: url(fonts/numea/Numea.otf) format('truetype');
 }
 
 @font-face {
     font-family: 'Salitia';
-    src: url(fonts/salitia/Salitia\ DEMO.ttf) format('truetype');
+    src: url(fonts/salitia/Salitia.ttf) format('truetype');
 }
 
 body {
